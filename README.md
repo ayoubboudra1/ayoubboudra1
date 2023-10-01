@@ -4,10 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Developer / Data Scientist
 -------------------------------------
 
-👋 Hello there! I'm Ayoub Boudra, a passionate Full Stack Developer and Data Scientist currently pursuing my Master's degree in Data Science and Intelligent Systems.
-👨‍💻 As a Full Stack Developer, I have a strong foundation in both front-end and back-end technologies. I specialize in building scalable web applications and designing intuitive user interfaces. My skills include HTML/CSS, JavaScript, React, Node.js, and various frameworks and libraries. 
-🔬 On the Data Science front, I have a keen interest in extracting meaningful insights from complex data sets. I'm experienced in using Python for data manipulation, analysis, and visualization. I have hands-on experience with machine learning algorithms, statistical modeling, and data mining techniques. Additionally, I'm familiar with popular data science libraries such as NumPy, Pandas, TensorFlow, and scikit-learn.
-🎓 Currently, I'm enrolled in a Master's program in Data Science and Intelligent Systems, which provides me with a deeper understanding of advanced topics and cutting-edge technologies in the field. I'm constantly learning and expanding my knowledge to stay up-to-date with the latest advancements in both full stack development and data science.
+👋 Full Stack Developer & Data Scientist pursuing a Master's in Data Science and Intelligent Systems. Specializing in building scalable web applications and extracting insights from complex data sets. Skills: HTML/CSS, JavaScript, React, Node.js, Python, ML algorithms, data visualization. Constantly learning to stay up-to-date.
 
 * 🌍  I'm based in Fes, Morocco
 * 🖥️  See my portfolio at [portfolio-ayoub-boudra.vercel.app](http://https://portfolio-ayoub-boudra.vercel.app)

@@ -11,7 +11,7 @@ Data Scientist
 
 ### Skills
 
-##Programming Languages: 
+## Programming Languages: 
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" width="36" height="36" alt="R" /></a>

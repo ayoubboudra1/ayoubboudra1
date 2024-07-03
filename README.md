@@ -26,7 +26,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <p align="left">
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="36" height="36" alt="Pandas" /></a>
 <a href="https://numpy.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="36" height="36" alt="NumPy" /></a>
-<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://techicons.dev/icons/scikitlearn/scikitlearn-original.svg" width="36" height="36" alt="Scikit-Learn" /></a>
+<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="[https://techicons.dev/icons/scikitlearn/scikitlearn-original.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fseeklogo.com%2Fvector-logo%2F337685%2Fscikit-learn&psig=AOvVaw3mG3bcdSsZrHUfO4TFjXty&ust=1720109072131000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLi1x-Ofi4cDFQAAAAAdAAAAABAR)" width="36" height="36" alt="Scikit-Learn" /></a>
 </p>
 ##Big Data Technologies: Hadoop, Spark, Hive
 ##Machine Learning: TensorFlow, Keras, PyTorch, Scikit-Learn

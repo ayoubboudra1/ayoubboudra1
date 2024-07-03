@@ -28,7 +28,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <a href="https://numpy.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="36" height="36" alt="NumPy" /></a>
 <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
 </p>
-##Big Data Technologies: Hadoop, Spark, Hive
+
+## Big Data Technologies: 
+<p align="left">
+<a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"><img src="https://commons.wikimedia.org/wiki/File:Hadoop_logo.svg" width="36" height="36" alt="Hadoop" /></a>
+<a href="https://spark.apache.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" width="36" height="36" alt="Spark" /></a>
+<a href="https://hive.apache.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e5/Hive_logo.svg" width="36" height="36" alt="Hive" /></a>
+</p>
 ##Machine Learning: TensorFlow, Keras, PyTorch, Scikit-Learn
 ##Data Visualization: Tableau, Power BI, Matplotlib, Seaborn
 ##Cloud Platforms: AWS, Google Cloud, Azure

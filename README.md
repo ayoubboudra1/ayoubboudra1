@@ -49,7 +49,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
         <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/>
     </a>
     <a href="https://keras.io/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/keras/keras-icon.svg" alt="Keras" width="40" height="40"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="Keras" width="40" height="40"/>
+    </a>
+    <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
+
+
+
     </a>
     <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40"/>

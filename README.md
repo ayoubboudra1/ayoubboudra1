@@ -59,9 +59,22 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
     </a>
 </p>
 
+## Data Visualization: 
+<p align="left">
+    <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/tableau/tableau-icon.svg" alt="Tableau" width="40" height="40"/>
+    </a>
+    <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="Power BI" width="40" height="40"/>
+    </a>
+    <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" width="40" height="40"/>
+    </a>
+    <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
+        <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" width="40" height="40"/>
+    </a>
+</p>
 
-
-##Data Visualization: Tableau, Power BI, Matplotlib, Seaborn
 ##Cloud Platforms: AWS, Google Cloud, Azure
 ##Database Management: MySQL, PostgreSQL, MongoDB
 ##MLOps: Docker, Kubernetes, MLflow

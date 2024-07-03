@@ -9,7 +9,7 @@ Data Scientist
 * 🖥️  See my portfolio at [portfolio-ayoub-boudra.vercel.app](http://https://portfolio-ayoub-boudra.vercel.app)
 * ✉️  You can contact me at [ayoub.boudra1@gmail.com](mailto:ayoub.boudra1@gmail.com)
 
-### Skills
+# Skills
 
 ## Programming Languages: 
 <p align="left">

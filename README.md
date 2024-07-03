@@ -54,8 +54,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
     <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40"/>
     </a>
-    <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-        <img src="https://techicons.dev/icons/scikitlearn/scikitlearn-original.svg" alt="Scikit-Learn" width="40" height="40"/>
+    <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
+        <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
     </a>
 </p>
 

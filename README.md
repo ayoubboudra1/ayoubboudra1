@@ -75,7 +75,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
     </a>
 </p>
 
-##Cloud Platforms: AWS, Google Cloud, Azure
+## Cloud Platforms: 
+<p align="left">
+    <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="40" height="40"/>
+    </a>
+</p>
 ##Database Management: MySQL, PostgreSQL, MongoDB
 ##MLOps: Docker, Kubernetes, MLflow
 ##Other Tools: Git, Jupyter Notebooks, Airflow

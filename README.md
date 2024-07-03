@@ -2,7 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ====================================================================================================================================
 
 # Data Scientist
--------------------------------------
+
 
 👋As a Junior Data Scientist with a strong foundation in statistical analysis, machine learning, and data visualization, I am passionate about transforming raw data into meaningful insights. My skills in big data technologies, coupled with proficiency in cloud-based MLOps, allow me to efficiently handle and process large datasets, ensuring robust and scalable model deployment. Driven by curiosity and a commitment to continuous learning, I thrive in dynamic environments where I can apply my analytical skills to solve real-world problems and drive business success.
 

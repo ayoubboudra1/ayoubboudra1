@@ -43,7 +43,23 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 </p>
 
 
-## Machine Learning: TensorFlow, Keras, PyTorch, Scikit-Learn
+## Machine Learning: 
+<p align="left">
+    <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/>
+    </a>
+    <a href="https://keras.io/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/keras/keras-icon.svg" alt="Keras" width="40" height="40"/>
+    </a>
+    <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40"/>
+    </a>
+    <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
+        <img src="https://techicons.dev/icons/scikitlearn/scikitlearn-original.svg" alt="Scikit-Learn" width="40" height="40"/>
+    </a>
+</p>
+
+
 ##Data Visualization: Tableau, Power BI, Matplotlib, Seaborn
 ##Cloud Platforms: AWS, Google Cloud, Azure
 ##Database Management: MySQL, PostgreSQL, MongoDB

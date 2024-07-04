@@ -98,7 +98,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <p align="left"> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> </p>
 
 ## Other Tools: 
-
 <p align="left">
     <a href="https://angular.io" target="_blank" rel="noreferrer">
         <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="40" height="40"/>
@@ -108,6 +107,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
     </a>
     <a href="https://redux.js.org" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"/>
+    </a>
+    <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+        <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" height="40"/>
     </a>
 </p>
 
@@ -122,7 +124,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 <p align="left">
     <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
-        <img src="https://d33wubrfki0l68.cloudfront.net/804b46268b2f0ce283169fe891fbff71d3d9f205/6a1b9/img/logo-small.svg" alt="NestJS" width="40" height="40"/>
+        <img src="https://seeklogo.com/images/N/nestjs-logo-09342F76C0-seeklogo.com.png" alt="NestJS" width="40" height="40"/>
     </a>
     <a href="https://nodejs.org" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
@@ -138,6 +140,15 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
     </a>
     <a href="https://postman.com" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
+    </a>
+</p>
+
+<p align="left">
+    <a href="https://www.qt.io/" target="_blank" rel="noreferrer">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="Qt" width="40" height="40"/>
+    </a>
+    <a href="https://spring.io/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" width="40" height="40"/>
     </a>
 </p>
 

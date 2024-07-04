@@ -99,7 +99,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 ## Other Tools: 
 
-<p align="center">
+<p align="left">
     <a href="https://angular.io" target="_blank" rel="noreferrer">
         <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="40" height="40"/>
     </a>
@@ -111,7 +111,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
     </a>
 </p>
 
-<p align="center">
+<p align="left">
     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
     </a>
@@ -120,7 +120,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
     </a>
 </p>
 
-<p align="center">
+<p align="left">
     <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="NestJS" width="40" height="40"/>
     </a>
@@ -129,7 +129,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
     </a>
 </p>
 
-<p align="center">
+<p align="left">
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
     </a>

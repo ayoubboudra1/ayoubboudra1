@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ayoub Boudra
 ====================================================================================================================================
 
-# Junior Data Scientist
+# Data Science Student
 
 
-👋As a Junior Data Scientist with a strong foundation in statistical analysis, machine learning, and data visualization, I am passionate about transforming raw data into meaningful insights. My skills in big data technologies, coupled with proficiency in cloud-based MLOps, allow me to efficiently handle and process large datasets, ensuring robust and scalable model deployment. Driven by curiosity and a commitment to continuous learning, I thrive in dynamic environments where I can apply my analytical skills to solve real-world problems and drive business success.
+👋I am a 2nd-year Master's student in Data Science and Engineering, passionate about artificial intelligence, big data, and cloud technologies. Ambitious, rigorous, and adaptable, I have developed strong skills in data analysis, machine learning, deep learning, full-stack development and Cloud Computing. Throughout my academic journey and hands-on projects, I have successfully delivered innovative solutions, such as heart disease prediction, face recognition, and AI-driven automation. I am currently seeking professional opportunities to apply my expertise to impactful projects and contribute to technological advancements.siness success.
 
 * 🖥️  See my portfolio at [portfolio-ayoub-boudra.vercel.app](http://https://portfolio-ayoub-boudra.vercel.app)
 * ✉️  You can contact me at [ayoub.boudra1@gmail.com](mailto:ayoub.boudra1@gmail.com)
